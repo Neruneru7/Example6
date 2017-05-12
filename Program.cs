@@ -16,7 +16,7 @@ namespace Example6
             string name;
 
             //変数への値の代入
-            score = 25;
+            score = (int)25.0;
             pai = 3.1415;
             name = "TARO";
 
